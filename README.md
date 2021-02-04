@@ -10,7 +10,7 @@ Terraform 0.14 and newer.
 
 ```hcl
 module "bootstrap" {
-  source = "terraform-aws-bootstrap"
+  source = "VictorLad/bootstrap/aws"
 
   prefix = module.config.prefix
   name   = "tf-state"
