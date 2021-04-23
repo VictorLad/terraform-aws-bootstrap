@@ -29,13 +29,13 @@ module "bootstrap" {
 | Name | Version |
 |------|---------|
 | terraform | >= 0.14.0 |
-| aws | >= 3.20.0 |
+| aws | >= 3.25.0 |
 
 ## Providers
 
 | Name | Version |
 |------|---------|
-| aws | >= 3.20.0 |
+| aws | >= 3.25.0 |
 
 ## Inputs
 
